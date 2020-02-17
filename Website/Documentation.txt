@@ -1,0 +1,21 @@
+Documentation by Maxim Blinov.
+
+1. Project description: This is a website of the movie that was done during the first week of classes. 
+The goal of the website is to be as much annoying as possible, so that is why there is a lot of "hello"
+all over the website and the video has a very huge size. 
+
+2. Process: The whole concept came to my mind when we filmed the video. It was a bit annoying
+so I thought the website might as well be annoying. I have tried to implement a video carousel where 
+the next slide is always the same video. I have created a carousel of photos, but things went wrong 
+when i put in the iframe. To save up time I had deleted the broken carousel and just left the video. 
+I have played around with navigation bar and have successfuly implemented the buttons to work
+but since i have no other pages it leads to the same page. Also I have added the footer which
+hold some informations as the logo of the university, my information and the names of the creators
+of the video. 
+
+3. Reflection/Evaluations: My expectations were very high, but since it is my first (first and a half) experience 
+in developing websites, it turned out to be very confusing and time consuming. It is way harder
+than coding in C# or C++ and i expected to be more simple. I was quite wrong so thats why my
+website didnt really meet the expectations of what I initially intended. I tried to cover the main
+goals in the grading rubric such as "Storytelling, code quality, technichal implementation, creativity 
+and user experience". But still even having these five main goals doesn't really satisfy the look of the website.  
